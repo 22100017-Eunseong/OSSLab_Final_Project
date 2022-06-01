@@ -16,7 +16,9 @@ Also, students can add new meals and rate them.
 
 **2. Clone The Git**
 <br/>    Enter `$ git clone https://github.com/22100017-Eunseong/OSSLab_Final_Project`
-<br/>    It should contain:*main.c main.o functions.c function.o hearder.h makefile HGU_FoodRating Food_Information.txt Rate_Information.txt Count.txt*
+<br/>    It should contain:* 
+<br/>    main.c main.o functions.c function.o hearder.h makefile HGU_FoodRating 
+<br/>    Food_Information.txt Rate_Information.txt Count.txt*
 
 **3. Compile**
 <br>    Enter `$ make` to compile
