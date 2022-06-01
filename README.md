@@ -48,9 +48,9 @@ Also, students can add new meals and rate them.
 <br>    User can quit the program
 
 # Get more help
-<br>   If you need any help or more information, please send me an email.
+If you need any help or more information, please send me an email.
 
-<br>**Email:** 22100017@handong.ac.kr
+<br>    **Email:** 22100017@handong.ac.kr
 
 # Contribution
 
