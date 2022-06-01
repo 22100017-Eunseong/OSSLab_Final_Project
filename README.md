@@ -16,7 +16,7 @@ Also, students can add new meals and rate them.
 
 **2. Clone The Git**
 <br>    Enter `$ git clone https://github.com/22100017-Eunseong/OSSLab_Final_Project`
-<br>    It should contain *main.c main.o functions.c function.o hearder.h makefile HGU_FoodRating Food_Information.txt Rate_Information.txt Count.txt*
+<br>    It should contain:*main.c main.o functions.c function.o hearder.h makefile HGU_FoodRating Food_Information.txt Rate_Information.txt Count.txt*
 
 **3. Compile**
 <br>    Enter `$ make` to compile
@@ -26,6 +26,24 @@ Also, students can add new meals and rate them.
 
 
 # Manual
+**Menu**
+<br>    <img width="185" alt="Menu" src="https://user-images.githubusercontent.com/103619332/171324330-e157ea65-06ea-4a9c-9223-1ff723eecc5d.png">
+
+**1. Insert New Food**
+<br>    <img width="184" alt="InsertNewFood" src="https://user-images.githubusercontent.com/103619332/171324675-41329428-da00-46dd-b339-36324842f6e6.png">
+
+
+**2. Rate Food**
+<br>    <img width="183" alt="Rating" src="https://user-images.githubusercontent.com/103619332/171324624-dbbd14cd-6bb6-4835-bbca-481f015c3d3f.png">
+
+
+**3. Show All**
+<br>    <img width="182" alt="ShowAll" src="https://user-images.githubusercontent.com/103619332/171324666-59eddf1a-adc8-4da9-a645-59e7d770fad0.png">
+
+
+**4. Quit**
+<br>    <img width="185" alt="Quit" src="https://user-images.githubusercontent.com/103619332/171324611-2f01512c-426c-4006-974f-ac85c2a7d3f9.png">
+
 
 # Where can people get more help, if needed? 
 
