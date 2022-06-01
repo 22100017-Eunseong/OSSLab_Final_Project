@@ -2,7 +2,7 @@
 **Title:** Food and Its Rating in Handong Global University
 
 # What does this project do? 
-
+This project collects data from users
 
 # Why is this project useful? 
 Every year, about 800 freshmen join Handong Global University. 
