@@ -17,7 +17,7 @@ This project collects data (food and its rating of Handong Global University) fr
 ## Why is this project useful? 
 Every year, about 800 freshmen join Handong Global University. However, the majority of first-year students do not know what kind of meal is available at Handong. Furthermore, there are not any ratings about the meals. 
 
-However, this project will help people, especially students at Handong Global University. By running this program, they can see all the types of a meal and its rating at Handong to choose their meal more efficiently. 
+However, this project will help people, especially students at Handong Global University. By running this program, they can see all the types of a meal and its rating to choose their meal more efficiently. 
 <br>They can check the food quality by checking its rating. Also, users can add new meals and rate them. This project will be helpful for every student, especially first-year students, and it is beneficial for the future.
 
 ## How to get started?
