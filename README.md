@@ -2,13 +2,13 @@
 **Title:** Food and Its Rating of Handong Global University
 
 ## Table of contents
-* [What does this project do?](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#what-does-this-project-do)
-* [Why is this project useful?](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#why-is-this-project-useful)
-* [How to get started?](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#how-to-get-started)
-* [Manual](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#manual)
-* [Get more help](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#get-more-help)
-* [Contribution](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#contribution)
-* [Presentation Video](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#presentation-video-youtube-link)
+* [What does this project do?](#what-does-this-project-do)
+* [Why is this project useful?](#why-is-this-project-useful)
+* [How to get started?](#how-to-get-started)
+* [Manual](#manual)
+* [Get more help](#get-more-help)
+* [Contribution](#contribution)
+* [Presentation Video](#presentation-video-youtube-link)
 
 ## What does this project do? 
 This project collects data (food and its rating of Handong Global University) from users. 
