@@ -62,7 +62,6 @@ It should contain:
 
 ## Get more help
 If you need any help or more information, please send me an email.
-
 <br/>**Email:** 22100017@handong.ac.kr
 
 ## Contribution
