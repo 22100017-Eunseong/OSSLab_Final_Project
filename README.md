@@ -1,17 +1,26 @@
 # Welcome to OSSLab_Final_Project
 **Title:** Food and Its Rating of Handong Global University
 
-# What does this project do? 
+## Table of contents
+* [What does this project do?](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#what-does-this-project-do)
+* [Why is this project useful?](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#why-is-this-project-useful)
+* [How to get started?](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#how-to-get-started)
+* [Manual](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#manual)
+* [Get more help](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#get-more-help)
+* [Contribution](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#contribution)
+* [Presentation Video](https://github.com/22100017-Eunseong/OSSLab_Final_Project/edit/main/README.md#presentation-video-youtube-link)
+
+## What does this project do? 
 This project collects data (food and its rating of Handong Global University) from users. 
 <br>These collected data will be stored in files so that other users can see the whole data.
 
-# Why is this project useful? 
+## Why is this project useful? 
 Every year, about 800 freshmen join Handong Global University. However, the majority of first-year students do not know what kind of meal is available at Handong. Furthermore, there are not any ratings about the meals. 
 
 However, this project will help people, especially students at Handong Global University. By running this program, they can see all the types of a meal and its rating at Handong to choose their meal more efficiently. 
 <br>They can check the food quality by checking its rating. Also, users can add new meals and rate them. This project will be helpful for every student, especially first-year students, and it is beneficial for the future.
 
-# How to get started?
+## How to get started?
 **1. Prepare and Connect to Raspberrypi**
 <br><img width="157" alt="raspberrypi image" src="https://user-images.githubusercontent.com/103619332/171323196-6655ab29-52c5-410a-8bee-326044effe7e.png">
 
@@ -29,7 +38,7 @@ It should contain:
 <br/>Enter `$ ./HGU_FoodRating` to run the program
 
 
-# Manual
+## Manual
 **Menu**
 <br/><img width="185" alt="Menu" src="https://user-images.githubusercontent.com/103619332/171324330-e157ea65-06ea-4a9c-9223-1ff723eecc5d.png">
 
@@ -51,14 +60,16 @@ It should contain:
 <br/><img width="185" alt="Quit" src="https://user-images.githubusercontent.com/103619332/171324611-2f01512c-426c-4006-974f-ac85c2a7d3f9.png">
 <br/>User can quit the program
 
-# Get more help
+## Get more help
 If you need any help or more information, please send me an email.
 
 <br/>**Email:** 22100017@handong.ac.kr
 
-# Contribution
-<br/>I have coded everything and I only got an idea from internet where I needed to update ratings.
-I used Poping A Menu screen that I learnt in C programming class. 
-I used three different files to store three different data to handle data more easily.
+## Contribution
+I have coded everything. Only for the updating files, I  got an idea from the internet.
+I used Poping A Menu screen that I learned in C programming class. 
+All other codes were provided in the OSSLab lecture.
+I used three different files to store three different data to handle data more efficiently.
 
-# Presentation Video (YouTube) Link
+## Presentation Video (YouTube) Link
+
